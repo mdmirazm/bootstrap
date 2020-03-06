@@ -1,0 +1,20 @@
+.back-image {
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+min-height: 70vh;
+border-radius: 0px;
+}
+.navbar-brand {
+	font-family: 'ubantu',sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover {
+	color: #f0AAB1;
+}
+/* .card .card-body img{
+	height: 100px;
+	width: 500px;
+
+ } */
